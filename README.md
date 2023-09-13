@@ -7,7 +7,7 @@ In this project following steps are involved:
 2>Tokenization
 3>Working on NLP (Natural Language Processing) Emotion Algorithm
 3>plotting graph(using matplotlib.pyplot)
-Installed NLTK (Natural Language ToolKit) used features like nltk.tokenize,nltk.corpus.
-Imported SentimentIntensityAnalyzer.
+4>Installing NLTK (Natural Language ToolKit) used features like nltk.tokenize,nltk.corpus.
+5>Imported SentimentIntensityAnalyzer.
 
 
